@@ -1,7 +1,3 @@
-local emotes_suggestions = {
-    "👍", "👎",
-}
-
 local m = {}
 m.type = "messageCreate"
 m.e = { "👍", "👎" }
